@@ -16,3 +16,12 @@ export const COLOR_BG_DARK = '#2F3549';
 export const ACTIVE_OPACITY = 0.6;
 // 视觉最细
 export const HAIRLINE_WIDTH = StyleSheet.hairlineWidth;
+//Dialog type
+export const DIALOG_TYPE_ALERT = 'alert';
+export const DIALOG_TYPE_CONFIRM = 'confirm';
+
+
+//dialog action
+export const DIALOG_ACTION_OK = 'ok';
+export const DIALOG_ACTION_CANCEL = 'cancel';
+export const DIALOG_ACTION_CONFIRM = 'confirm';

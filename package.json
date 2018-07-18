@@ -1,11 +1,81 @@
 {
-  "name": "react-native-test-ui",
-  "version": "1.0.3",
+  "_args": [
+    [
+      {
+        "raw": "react-native-test-ui@^1.0.2",
+        "scope": null,
+        "escapedName": "react-native-test-ui",
+        "name": "react-native-test-ui",
+        "rawSpec": "^1.0.2",
+        "spec": ">=1.0.2 <2.0.0",
+        "type": "range"
+      },
+      "/Users/ibrain/Desktop/gudao/my/AwesomeProject"
+    ]
+  ],
+  "_from": "react-native-test-ui@>=1.0.2 <2.0.0",
+  "_id": "react-native-test-ui@1.0.3",
+  "_inCache": true,
+  "_location": "/react-native-test-ui",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-test-ui_1.0.3_1530153180880_0.738158343265896"
+  },
+  "_npmUser": {
+    "name": "kekebugua",
+    "email": "15963383124@163.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-test-ui@^1.0.2",
+    "scope": null,
+    "escapedName": "react-native-test-ui",
+    "name": "react-native-test-ui",
+    "rawSpec": "^1.0.2",
+    "spec": ">=1.0.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-test-ui/-/react-native-test-ui-1.0.3.tgz",
+  "_shasum": "db6c52afc12cacb64c3cf3cc61e59095beba9858",
+  "_shrinkwrap": null,
+  "_spec": "react-native-test-ui@^1.0.2",
+  "_where": "/Users/ibrain/Desktop/gudao/my/AwesomeProject",
+  "author": {
+    "name": "Ly"
+  },
+  "dependencies": {
+    "react-native-smart-pull-to-refresh-listview": "^1.6.11-beta.2",
+    "react-native-root-siblings": "^1.2.1",
+    "rmc-date-picker": "^6.0.5"
+  },
   "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "db6c52afc12cacb64c3cf3cc61e59095beba9858",
+    "tarball": "https://registry.npmjs.org/react-native-test-ui/-/react-native-test-ui-1.0.3.tgz",
+    "fileCount": 11,
+    "unpackedSize": 57737
+  },
+  "license": "ISC",
   "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kekebugua",
+      "email": "15963383124@163.com"
+    }
+  ],
+  "name": "react-native-test-ui",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ly",
-  "license": "ISC"
+  "version": "1.0.4"
 }
